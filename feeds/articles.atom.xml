@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eugene Yurtsev</title><link href="/" rel="alternate"></link><link href="/feeds/articles.atom.xml" rel="self"></link><id>/</id><updated>2017-04-27T00:00:00-05:00</updated><entry><title>The first article</title><link href="/blog/the-first-article.html" rel="alternate"></link><published>2017-04-27T00:00:00-05:00</published><updated>2017-04-27T00:00:00-05:00</updated><author><name>Eugene Yurtsev</name></author><id>tag:,2017-04-27:blog/the-first-article.html</id><summary type="html">&lt;p&gt;A page that yearns to be&amp;nbsp;written.&lt;/p&gt;
+</summary></entry></feed>
